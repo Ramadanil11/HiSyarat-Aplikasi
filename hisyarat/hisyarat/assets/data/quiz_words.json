@@ -1,0 +1,21 @@
+{
+  "easy": [
+    "IBU", "AYAH", "BUKU", "MEJA", "MAKAN",
+    "SAPI", "KAKI", "MATA", "TELUR", "PINTU",
+    "RUMAH", "BOLA", "JAM", "KUNCI", "PENSIL",
+    "KURSI", "MINUM", "LARI", "BACA", "KOPI"
+  ],
+  "medium": [
+    "SEKOLAH", "KOMPUTER", "INDONESIA", "BELAJAR",
+    "KELUARGA", "TAMAN", "HUTAN", "LAUTAN",
+    "GUNUNG", "SUNGAI", "TANAMAN", "HEWAN",
+    "SAUDARA", "KELAS", "TULIS", "GAMBAR",
+    "SEPATU", "BAJU", "SAKIT", "MINYAK"
+  ],
+  "hard": [
+    "TEKNOLOGI", "UNIVERSITAS", "KECERDASAN", "PENDIDIKAN",
+    "BUDAYA", "BAHASA", "SASTRA", "SEJARAH",
+    "LINGKUNGAN", "KESEHATAN", "OLAHRAGA", "PERPUSTAKAAN",
+    "KOSAKATA", "PENERBANGAN", "PERTANIAN", "PEMBANGUNAN"
+  ]
+}

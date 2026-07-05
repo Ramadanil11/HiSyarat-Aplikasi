@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1017445714046",
+    "project_id": "hisyarat-e9b4a",
+    "storage_bucket": "hisyarat-e9b4a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017445714046:android:2962b304478e614d32f02f",
+        "android_client_info": {
+          "package_name": "com.hisyarat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017445714046-uasr54k3ci9n5q3j97mqkbe7017h3ek9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtcx6F8FaNesabrBMEDUgRqbndAHhRIvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017445714046-uasr54k3ci9n5q3j97mqkbe7017h3ek9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
